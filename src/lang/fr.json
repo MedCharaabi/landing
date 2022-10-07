@@ -1,0 +1,41 @@
+{
+  "page.home.STAY_HEALTHY": "Votre Coach Sportif Personnel, à la demande sur votre télé",
+  "page.home.description": "Gardez la motivation pour la pratique d'une activité physique régulière et l'atteinte de vos objectifs de santé.",
+  "page.home.notifyme": "notifié moi",
+
+  "page.home.feature1_title": "Un programme sportif personnalisé et évolutif",
+  "page.home.feature1_description": "Se muscler, déstresser, perdre du poids, s'amuser... Quel que soit votre objectif, AIMOOV adaptera votre programme à votre profil.\n Votre coach personnel évalue votre niveau et votre forme pour ajuster vos exercices.",
+  "page.home.feature2_title": "Un entraînement plus efficace grâce au coaching en temps réel",
+  "page.home.feature2_description": "Votre coach personnel suit votre posture et vos mouvements, vous encourage et vous met au défi pendant votre séance. Si vous commettez une erreur qui réduit l'efficacité de l'exercice ou risque de provoquer une blessure, il vous montrera comment la corriger. Si nécessaire, il déclenchera des tutoriels pertinents, pour vous aider à vous améliorer et à progresser.",
+  "page.home.feature3_title": "Un suivi d'évolution grâce aux Smart Insights",
+  "page.home.feature3_description": "Suivez votre progression et vos réalisations, vos points forts et les mouvements à améliorer. Parcourez vos erreurs de posture et bénéficier de conseils pour les corriger.\n Centralisez votre activité physique dans votre écosystème de santé. AIMOOV est compatible avec Apple Health et Google Fit.",
+
+  "page.home.core-feature1_title": "Une expérience exceptionnelle",
+  "page.home.core-feature1_description": "L'univers AIMOOV vous donnera un avant-gout du METAVERS. Essayez notre interface graphique moderne. Interagissez gestuellement avec votre coach. Entraînez-vous au son de votre musique préférée et laissez votre coach vous motiver et vous stimuler pendant vos séances d'entraînement!",
+  "page.home.core-feature2_title": "Une technologie de pointe",
+  "page.home.core-feature2_description": "AIMOOV est issu de plusieurs années de Recherche & Développement et d'une IA propriétaire et brevetée.\n Son optique, inspirée des drones, est optimisée pour un usage dans de petits espaces et des conditions de luminosité variées.\n Son logiciel est conçu pour vous apporter régulièrement des mises à jour évolutives, de nouveaux exercices et programmes.",
+  "page.home.core-feature3_title": "Un produit éco-responsable",
+  "page.home.core-feature3_description": "Imaginé, conçu et développé en France, notre produit est fabriqué avec des matériaux plastiques 100% recyclés (ABS-PC).\n Nous avons déployé des efforts considérables afin de réduire son emprinte carbonne en minimisant sa taille, son encombrement et son poids. Son packaging en carton peut être utilisé pour stocker et transporter le produit.",
+
+  "page.home.followus": "Suivez-nous",
+  "page.home.field_required": "Ce champ est requis.",
+  "page.home.email_required": "Ce champ est requis.",
+  "page.home.email_invalid": "Ce email est invalide.",
+  "page.home.email_submit_sucess": "Votre e-mail a été soumis avec succès.",
+  "page.home.email_submit_fail": "Une erreur s'est produite lors de la soumission de votre e-mail.",
+  "page.home.about-ai-bright": "A propos d'AI BRIGHT",
+  "page.home.about-ai-bright-desc": "AI BRIGHT est une startup créée en 2019 et qui innove dans le domaine de l’Intelligence Artificielle pour le sport et le bien-être.",
+
+  "page.book.book": "Réserver",
+  "page.book.book-now-and-get": "Réservez maintenant et obtenez",
+
+  "page.book.aimoov_launch_exclusif": "AIMOOV Lancement exclusif",
+  "page.book.choose_your_offer": "Choisissez votre offre",
+  "page.book.enter-your": "Enterer votre",
+
+  "page.book.lastname": "Prenom",
+  "page.book.name": "Nom",
+  "page.book.sucessmsg": "Votre demande a été reçue avec succès",
+  "page.book.errormsg": "Une erreur s'est produite lors de l'envoi de votre demande, veuillez réessayer",
+  "page.book.money-grantee": "Garantie de remboursement de 30 jours"
+}

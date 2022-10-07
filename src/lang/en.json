@@ -1,0 +1,41 @@
+{
+  "page.home.STAY_HEALTHY": "Your Personal Trainer, On-demand on your TV",
+  "page.home.description": "Stay motivated to practice regular physical activity and reach your health goals.",
+
+  "page.home.notifyme": "Notify me",
+  "page.home.feature1_title": "A personalized and evolving sports program",
+  "page.home.feature1_description": "Build muscle, de-stress, lose weight, have fun... Whatever your objective, AIMOV will adapt your program to your profile.\n Your personal trainer evaluates your level and your shape to adjust your exercises.",
+  "page.home.feature2_title": "Workout smarter with\n real-time coaching",
+  "page.home.feature2_description": "Your on-demand personal trainer tracks your posture and movements, encourages you and challenges you during workout session. If you make a mistake that reduces effectiveness or could cause an injury, he’ll show you how to fix it.\n If needed, he will trigger relevant step-by-step tutorials to help you improving.",
+  "page.home.feature3_title": "Track your progress with\n Smart Insights",
+  "page.home.feature3_description": "Follow your progress and your achievements, your strengths and the movements to improve. Review your posture errors and get advice on how to correct them.\n Centralize your physical activity in your health ecosystem. AIMOOV is compatible with Apple Health and Google Fit.",
+
+  "page.home.core-feature1_title": "An outstanding Experience",
+  "page.home.core-feature1_description": "The AIMOOV universe will give you a taste of METAVERS.\n Try our modern graphical interface. Interact with your coach using gestures.\n Train to your favorite music and let your coach motivate and stimulate you during your workouts!",
+  "page.home.core-feature2_title": "An advanced technology",
+  "page.home.core-feature2_description": "AIMOOV is the result of several years of Research & Development and a proprietary and patented AI.\n Its optics, inspired by drones, is optimized for use in small spaces and varied light conditions.\n Its software is designed to bring you regularly evolutionary updates, new exercises and programs.",
+  "page.home.core-feature3_title": "A sustainable product",
+  "page.home.core-feature3_description": "Imaginé, conçu et développé en France, notre produit est fabriqué avec des matériaux plastiques 100% recyclés (ABS-PC).\n Nous avons déployé des efforts considérables afin de réduire son emprinte carbonne en minimisant sa taille, son encombrement et son poids. Son packaging en carton peut être utilisé pour stocker et transporter le produit.",
+
+  "page.home.followus": "Follow us",
+  "page.home.field_required": "This field is Required.",
+  "page.home.email_required": "This field is Required.",
+  "page.home.email_invalid": "Invalid Email Provided.",
+  "page.home.email_submit_sucess": "Your email has been submitted successfully.",
+  "page.home.email_submit_fail": "An error occurred while submitting your email.",
+  "page.home.about-ai-bright": "About AI BRIGHT",
+  "page.home.about-ai-bright-desc": "AI BRIGHT is a French startup founded in 2019 that innovates in the field of Artificial Intelligence for Health and Wellbeing.",
+
+  "page.book.book": "Book",
+  "page.book.book-now-and-get": "Book now and get",
+  "page.book.aimoov_launch_exclusif": "AIMOOV Launch exclusif",
+  "page.book.choose_your_offer": "Choose your offer",
+  "page.book.enter-your": "Enter your",
+
+  "page.book.lastname": "Lastname",
+  "page.book.name": "Name",
+  "page.book.sucessmsg": "Your demanade was received succesfuly",
+  "page.book.errormsg": "An error occured while sending your demmande, please try again",
+  "page.book.money-grantee": "30 Days Moneyback Guarantee",
+  "page.book.inscri": "Inscription to "
+}

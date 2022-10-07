@@ -1,0 +1,166 @@
+.modal-bg {
+  background-color: black;
+  position: fixed;
+  top: 0;
+  left: 0;
+  opacity: 50%;
+  width: 100vw;
+  height: 100vh;
+  z-index: 100;
+  display: grid;
+  place-content: center;
+}
+
+.modal {
+  position: fixed;
+  background-color: white !important;
+  top: 50% !important;
+  left: 50% !important;
+  /* height: 70% !important; */
+  width: 50% !important;
+  border-radius: 10px !important;
+  /* padding: 1% 10%; */
+  padding-bottom: 50px;
+  display: contents;
+  /* box-shadow:  ; */
+
+  transform: translate(-50%, -50%);
+  transition: top 0.4s, transform 0.4s;
+  z-index: 101;
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* padding: 1% 10%; */
+}
+
+.close-icon {
+  /* font-size: 1.5rem; */
+  cursor: pointer;
+  /* padding: 10px; */
+  /* background-color: red; */
+}
+
+.modal-content {
+  padding: 0px 20px;
+  margin: 0px;
+
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow-y: scroll;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.input-row {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+  align-items: flex-start;
+
+  margin-bottom: 10px;
+}
+
+.input-row label {
+  width: 22%;
+}
+.input-row > div {
+  width: 100%;
+}
+.email-input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 4px 0;
+  box-sizing: border-box;
+  border-radius: 40px;
+  border: 1px solid #ccc;
+}
+
+.input-label {
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin: 0 10px;
+  color: #616578;
+}
+
+.form-error {
+  color: red;
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin: 0 10px;
+}
+
+.dot-icon {
+  color: red !important;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.modal-footer {
+  display: flex !important;
+  justify-content: flex-end;
+  margin-top: 20px;
+  gap: 10px;
+}
+
+.cancelButton {
+  background-color: #616578 !important;
+  color: white !important;
+  border-radius: 40px;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+@media only screen and (min-width: 768px) {
+  .modal {
+    width: 70% !important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .modal {
+    width: 90% !important;
+    height: 90% !important;
+    padding-bottom: 10px;
+  }
+
+  .modal-content {
+    padding: 0px 10px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .input-row {
+    flex-direction: column;
+  }
+
+  .modal {
+    padding-bottom: 0px;
+  }
+  .form {
+    padding: 0px 10px;
+  }
+
+  .close-icon {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .modal {
+    width: 60% !important;
+  }
+}
